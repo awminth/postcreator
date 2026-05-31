@@ -1,0 +1,6 @@
+{
+  "name": "Facebook Post Generator & Enhancer",
+  "description": "An AI-powered professional content assistant to generate, enhance, and preview highly engaging, high-converting Facebook posts with Burmese & English support, real-time feed emulator, and visual suggestion generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
